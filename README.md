@@ -12,3 +12,6 @@
 
 
 **Практическая работа 3. .**
+
+  - [Задание 3](https://github.com/nestratovaam/PP_ETL_Nestratova/blob/main/PR3/%D0%9F%D0%A03_%D0%9D%D0%B5%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D0%B0.ipynb)
+  - [Дашборд](https://datalens.yandex/dl4o9m4qksai1)
