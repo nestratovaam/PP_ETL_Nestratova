@@ -20,7 +20,7 @@
 
 **Практическая работа 4. Проектирование сквозного конвейера ETL на Python и Airflow.**
 
-Задание 4.1. Бизнес кейс «Umbrella»
+[Задание 4.1. Бизнес кейс «Umbrella»](https://github.com/nestratovaam/PP_ETL_Nestratova/blob/main/PR_4/%D0%9D%D0%B5%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D0%B0%D0%90%D0%9C-4.pdf)
   - Описание основныех элементов интерфейса Apache Airflow
   - Верхнеуровневая архитектура аналитического решения задания Бизнес кейс Umbrella в draw.io
 
