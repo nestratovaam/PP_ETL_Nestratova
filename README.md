@@ -20,12 +20,11 @@
 
 **Практическая работа 4. Проектирование сквозного конвейера ETL на Python и Airflow.**
 
-[Задание 4.1. Бизнес кейс «Umbrella»](https://github.com/nestratovaam/PP_ETL_Nestratova/blob/main/PR_4/%D0%9D%D0%B5%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D0%B0%D0%90%D0%9C-4.pdf)
-  - Описание основныех элементов интерфейса Apache Airflow
-  - Верхнеуровневая архитектура аналитического решения задания Бизнес кейс Umbrella в draw.io
+  - [Задание 4.1. Бизнес кейс «Umbrella»](https://github.com/nestratovaam/PP_ETL_Nestratova/blob/main/PR_4/%D0%9D%D0%B5%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D0%B0%D0%90%D0%9C-4.pdf)
 
-Задание 4.2. Basic pipeline ETL
-  - Построить конвейер данных на основании Basic pipeline ETL.rar
+
+  - [Задание 4.2. Групповое задание](https://github.com/nestratovaam/PP_ETL_Nestratova/blob/main/PR_4/%D0%9D%D0%B5%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D0%B0_%D0%9F%D0%A04_2_%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80.ipynb), [данные](https://github.com/nestratovaam/PP_ETL_Nestratova/blob/main/PR_4/crypto_markets.csv)
+  - [Задание 4.2. Индивидуальное задание](https://github.com/nestratovaam/PP_ETL_Nestratova/blob/main/PR_4/%D0%9D%D0%B5%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D0%B0_%D0%9F%D0%A04_2.ipynb), [данные](https://github.com/nestratovaam/PP_ETL_Nestratova/blob/main/PR_4/clear.csv) 
 
 
 **Практическая работа 5. Airflow DAG.**
